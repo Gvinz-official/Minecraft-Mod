@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "tropicmod:block/palm_slab"
+    },
+    "type=double": {
+      "model": "tropicmod:block/palm_planks"
+    },
+    "type=top": {
+      "model": "tropicmod:block/palm_slab_top"
+    }
+  }
+}

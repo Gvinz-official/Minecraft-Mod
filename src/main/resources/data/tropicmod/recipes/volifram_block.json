@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tropicmod:volifram_ingot"
+    }
+  },
+  "result": {
+    "item": "tropicmod:volifram_block"
+  }
+}

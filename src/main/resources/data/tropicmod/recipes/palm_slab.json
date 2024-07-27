@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tropicmod:palm_planks"
+    }
+  },
+  "result": {
+    "count": 6,
+    "item": "tropicmod:palm_slab"
+  }
+}

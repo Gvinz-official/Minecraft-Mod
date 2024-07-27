@@ -1,0 +1,9 @@
+{
+  "type": "tropicmod:add_item",
+  "conditions": [
+    {
+      "entity": "tropicmod:eye"
+    }
+  ],
+  "item": "tropicmod:linz"
+}

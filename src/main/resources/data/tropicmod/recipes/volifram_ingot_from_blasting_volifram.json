@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "volifram_ingot",
+  "ingredient": {
+    "item": "tropicmod:volifram"
+  },
+  "result": "tropicmod:volifram"
+}

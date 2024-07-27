@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tropicmod:star"
+    }
+  },
+  "result": {
+    "item": "tropicmod:mana_star"
+  }
+}

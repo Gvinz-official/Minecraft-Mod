@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "tropicmod:volifram",
+    "tropicmod:volifram_block",
+    "tropicmod:vase",
+    "tropicmod:heart_block",
+    "tropicmod:palm_log",
+    "tropicmod:palm_wood",
+    "tropicmod:stripped_palm_wood",
+    "tropicmod:stripped_palm_log",
+    "tropicmod:palm_planks"
+  ]
+}

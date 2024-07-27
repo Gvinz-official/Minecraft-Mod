@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "tropicmod:block/palm_pressure_plate"
+    },
+    "powered=true": {
+      "model": "tropicmod:block/palm_pressure_plate_down"
+    }
+  }
+}

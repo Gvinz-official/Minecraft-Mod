@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tropicmod:lava_block"
+    }
+  ],
+  "result": {
+    "item": "tropicmod:lavaslitok",
+    "count": 9
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values":[
+    "tropicmod:palm_log",
+    "tropicmod:palm_wood",
+    "tropicmod:stripped_palm_log",
+    "tropicmod:stripped_palm_wood"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "tropicmod:block/heart_lamp"
+    },
+    "facing=south": {
+      "model": "tropicmod:block/heart_lamp",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tropicmod:block/heart_lamp",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "tropicmod:block/heart_lamp",
+      "y": 90
+    }
+  }
+}

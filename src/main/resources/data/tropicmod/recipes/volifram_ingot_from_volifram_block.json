@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tropicmod:volifram_block"
+    }
+  ],
+  "result": {
+    "item": "tropicmod:volifram_ingot",
+    "count": 9
+  }
+}

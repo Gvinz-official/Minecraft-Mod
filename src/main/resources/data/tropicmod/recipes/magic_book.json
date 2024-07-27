@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "+$+",
+    "+#+",
+    "+!+"
+  ],
+  "key": {
+    "#": {
+      "item": "tropicmod:mana_star"
+    },
+    "!": {
+      "item": "minecraft:paper"
+    },
+    "$": {
+      "item": "minecraft:arrow"
+    },
+    "+": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "tropicmod:magic_book"
+  }
+}

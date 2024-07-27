@@ -1,0 +1,68 @@
+{
+  "item.tropicmod.lavaore": "Адская руда",
+  "item.tropicmod.lavaslitok": "Слиток адской руды",
+  "item.tropicmod.volifram_ore": "Вольфрамовая руда",
+  "item.tropicmod.volifram_ingot": "Вольфрамовый слиток",
+  "item.tropicmod.orichalcum_ore": "Арихалк",
+  "item.tropicmod.orichalcum_ingot": "Арихалковый слиток",
+  "item.tropicmod.volifram_nugget": "Вольфрамовый кусочек",
+  "item.tropicmod.volifram_stick": "Вольфрамовая палка",
+
+  "item.tropicmod.eye_spawn_egg": "Яйцо призыва Глаза",
+  "entity.tropicmod.eye": "Глаза",
+
+  "item.tropicmod.lava_sword": "Адский меч",
+  "item.tropicmod.orichalcum_sword": "Арихалковый меч",
+  "item.tropicmod.magic_book": "Магическая книга",
+  "item.tropicmod.magic_fireball_book": "Магическая огенная книга",
+
+
+  "item.tropicmod.knute": "Кнут",
+
+  "item.tropicmod.banana": "Банан",
+
+  "item.tropicmod.heart": "Камень жизни",
+
+  "item.tropicmod.linz": "Линза",
+
+  "item.tropicmod.mana_star": "Звезда маны",
+  "item.tropicmod.star": "Звезда",
+  "item.tropicmod.star_seeds": "Звездное семечко",
+
+  "block.tropicmod.palm_log": "Пальмовое бревно",
+  "block.tropicmod.stripped_palm_log": "Очищенное пальмовое бревно",
+  "block.tropicmod.palm_wood": "Пальмовая древесина",
+  "block.tropicmod.stripped_palm_wood": "Очищенная пальмовая древесина",
+  "block.tropicmod.palm_planks": "Пальмовые доски",
+  "block.tropicmod.palm_leaves": "Пальмовые листья",
+  "block.tropicmod.palm_sapling": "Саженец пальмы",
+
+  "block.tropicmod.palm_stairs": "Пальмовые ступеньки",
+  "block.tropicmod.palm_slab": "Пальмовый полублок",
+  "block.tropicmod.palm_fence": "Пальмовый забор",
+  "block.tropicmod.palm_fence_gate": "Пальмовая калитка",
+  "block.tropicmod.palm_button": "Пальмовая кнопка",
+  "block.tropicmod.palm_pressure_plate": "Пальмовая нажимная плита",
+  "block.tropicmod.palm_door": "Пальмовая дверь",
+  "block.tropicmod.palm_trap_door": "Пальмовый люк",
+  "block.tropicmod.palm_sign": "Пальмовая табличка",
+
+
+  "block.tropicmod.lavablockore": "Лавовая руда",
+  "block.tropicmod.lava_block": "Лавовый блок",
+  "block.tropicmod.volifram": "Вольфрам",
+  "block.tropicmod.volifram_block": "Вольфрамовый блок",
+  "block.tropicmod.orichalcum_block_ore": "Арихалковая руда",
+  "block.tropicmod.orichalcum_block": "Арихалковый блок",
+
+  "block.tropicmod.vase" : "Ваза",
+  "block.tropicmod.heart_block" : "Сердце (блок)",
+  "block.tropicmod.heart_lamp" : "Фонарь регенерации",
+
+  "block.tropicmod.verevka": "Верёвка",
+
+  "block.tropicmod.star_crop_block": "Star Crop",
+
+
+  "itemGroup.tropictab": "Тропические Приключения"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tropicmod:palm_log"
+    }
+  ],
+  "result": {
+    "item": "tropicmod:palm_planks",
+    "count": 4
+  }
+}

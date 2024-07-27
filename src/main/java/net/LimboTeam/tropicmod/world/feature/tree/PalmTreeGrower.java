@@ -1,0 +1,16 @@
+package net.LimboTeam.tropicmod.world.feature.tree;
+
+import net.LimboTeam.tropicmod.world.feature.ModConfiguredFeatures;
+import net.minecraft.core.Holder;
+import net.minecraft.util.RandomSource;
+import net.minecraft.world.level.block.grower.AbstractTreeGrower;
+import net.minecraft.world.level.levelgen.feature.ConfiguredFeature;
+import org.jetbrains.annotations.Nullable;
+
+public class PalmTreeGrower extends AbstractTreeGrower {
+    @Nullable
+    @Override
+    protected Holder<? extends ConfiguredFeature<?, ?>> getConfiguredFeature(RandomSource randomSource, boolean b) {
+        return ModConfiguredFeatures.PALM.getHolder().get();
+    }
+}

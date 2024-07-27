@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "tropicmod:block/stripped_palm_log",
+    "side": "tropicmod:block/stripped_palm_log"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tropicmod:lavablockore",
+    "tropicmod:lava_block",
+    "tropicmod:orichalcum_block",
+    "tropicmod:orichalcum_block_ore"
+  ]
+}
