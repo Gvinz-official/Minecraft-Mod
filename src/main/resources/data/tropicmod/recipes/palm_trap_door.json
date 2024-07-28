@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#":{
+      "item": "tropicmod:palm_planks"
+    }
+  },
+  "result": {
+    "item": "tropicmod:palm_trap_door",
+    "count": 3
+  }
+}
