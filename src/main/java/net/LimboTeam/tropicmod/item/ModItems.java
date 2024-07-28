@@ -86,6 +86,8 @@ public class ModItems {
     //linz
     public static final RegistryObject<Item> LINZ = ITEMS.register("linz",
             () -> new Item(new Item.Properties().tab(ModCreativeModTab.TropicModTab)));
+    public static final RegistryObject<Item> MAGIC_LINZ = ITEMS.register("magic_linz",
+            () -> new Item(new Item.Properties().tab(ModCreativeModTab.TropicModTab)));
 
     //spawn egg
     public static final RegistryObject<Item> EYE_SPAWN_EGG = ITEMS.register("eye_spawn_egg",

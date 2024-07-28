@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    " # ",
+    "#!#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "tropicmod:linz"
+    },
+    "!": {
+      "item": "tropicmod:mana_star"
+    }
+  },
+  "result": {
+    "item": "tropicmod:magic_linz"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "###",
+    "###",
+    " ! "
+  ],
+  "key": {
+    "#": {
+      "item": "tropicmod:palm_planks"
+    },
+    "!": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "tropicmod:palm_sign",
+    "count": 3
+  }
+}
