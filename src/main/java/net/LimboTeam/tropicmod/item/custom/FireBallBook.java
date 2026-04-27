@@ -24,9 +24,9 @@ public class FireBallBook extends Item {
         LargeFireball largeFireball = new LargeFireball(level, player, 1D, 1D, 1D, 3);
         largeFireball.setPos(player.getX() + look.x * 1.5D,player.getY() + look.y * 1.5D,
                 player.getZ() + look.z * 1.5D );
-        largeFireball.xPower = look.x * 2.0D;
-        largeFireball.yPower = look.y * 2.0D;
-        largeFireball.zPower = look.z * 2.0D;
+        largeFireball.xPower = look.x * 1.0D;
+        largeFireball.yPower = look.y * 1.0D;
+        largeFireball.zPower = look.z * 1.0D;
         largeFireball.setGlowingTag(true);
         player.getCooldowns().addCooldown(this, 40);
         level.addFreshEntity(largeFireball);
