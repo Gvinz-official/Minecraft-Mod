@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/crop",
   "textures": {
-    "crop": "tropicmod:block/star_stage5"
+    "crop": "tropicmod:block/star_stage-5"
   },
   "render_type": "cutout"
 }
