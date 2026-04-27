@@ -1,0 +1,69 @@
+{
+  "item.tropicmod.lavaore": "Nether Ore",
+  "item.tropicmod.lavaslitok": "Nether Ingot",
+  "item.tropicmod.volifram_ore": "Volifram Ore",
+  "item.tropicmod.volifram_ingot": "Volifram Ingot",
+  "item.tropicmod.orichalcum_ore": "Orichalcum Ore",
+  "item.tropicmod.orichalcum_ingot": "Orichalcum Ingot",
+  "item.tropicmod.volifram_nugget": "Volifram Nugget",
+  "item.tropicmod.volifram_stick": "Volifram Stick",
+
+  "item.tropicmod.eye_spawn_egg": "Eye Spawn Egg",
+  "entity.tropicmod.eye": "Eye",
+
+  "item.tropicmod.lava_sword": "Nether Sword",
+  "item.tropicmod.orichalcum_sword": "Orichalcum Sword",
+  "item.tropicmod.magic_book": "Magic Book",
+  "item.tropicmod.magic_fireball_book": "Magic Fireball Book",
+
+
+  "item.tropicmod.knute": "Whip",
+
+  "item.tropicmod.banana": "Banana",
+
+  "item.tropicmod.heart": "Life Stone",
+
+  "item.tropicmod.linz": "Lens",
+  "item.tropicmod.magic_linz": "Magic Lens",
+
+  "item.tropicmod.mana_star": "Mana Star",
+  "item.tropicmod.star": "Star",
+  "item.tropicmod.star_seeds": "Star Seeds",
+
+  "block.tropicmod.palm_log": "Palm Log",
+  "block.tropicmod.stripped_palm_log": "Stripped Palm Log",
+  "block.tropicmod.palm_wood": "Palm Wood",
+  "block.tropicmod.stripped_palm_wood": "Stripped Palm Wood",
+  "block.tropicmod.palm_planks": "Palm Planks",
+  "block.tropicmod.palm_leaves": "Palm Leaves",
+  "block.tropicmod.palm_sapling": "Palm Sapling",
+
+  "block.tropicmod.palm_stairs": "Palm Stairs",
+  "block.tropicmod.palm_slab": "Palm Slab",
+  "block.tropicmod.palm_fence": "Palm Fence",
+  "block.tropicmod.palm_fence_gate": "Palm Fence Gate",
+  "block.tropicmod.palm_button": "Palm Button",
+  "block.tropicmod.palm_pressure_plate": "Palm Pressure Plate",
+  "block.tropicmod.palm_door": "Palm Door",
+  "block.tropicmod.palm_trap_door": "Palm Trapdoor",
+  "block.tropicmod.palm_sign": "Palm Sign",
+
+
+  "block.tropicmod.lavablockore": "Lava Ore",
+  "block.tropicmod.lava_block": "Lava Block",
+  "block.tropicmod.volifram": "Volifram",
+  "block.tropicmod.volifram_block": "Volifram Block",
+  "block.tropicmod.orichalcum_block_ore": "Orichalcum Ore",
+  "block.tropicmod.orichalcum_block": "Orichalcum Block",
+
+  "block.tropicmod.vase" : "Vase",
+  "block.tropicmod.heart_block" : "Heart Block",
+  "block.tropicmod.heart_lamp" : "Regeneration Lamp",
+
+  "block.tropicmod.verevka": "Rope",
+
+  "block.tropicmod.star_crop_block": "Star Fruit",
+
+
+  "itemGroup.tropictab": "Tropical Adventures"
+}
